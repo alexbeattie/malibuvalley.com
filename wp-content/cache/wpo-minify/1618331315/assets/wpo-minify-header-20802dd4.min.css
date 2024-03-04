@@ -5159,9 +5159,9 @@ section {
   display: block
 }
 
-body {
+/* body {
   line-height: 1em
-}
+} */
 
 ol,
 ul {
@@ -5195,7 +5195,7 @@ html.responsive,
 }
 
 body {
-  font: 13px/1.65em "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /* font: 13px/1.65em "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; */
   color: #444;
   -webkit-text-size-adjust: 100%
 }
@@ -22777,9 +22777,9 @@ tr.pricing-row td,
   font-family: 'open sans', 'HelveticaNeue', 'Helvetica Neue', 'Helvetica-Neue', Helvetica, Arial, sans-serif
 }
 
-body.quattrocento {
+/* body.quattrocento {
   font-family: 'quattrocento', 'HelveticaNeue', 'Helvetica Neue', 'Helvetica-Neue', Helvetica, Arial, sans-serif
-}
+} */
 
 .container {
   width: 100%
@@ -23193,7 +23193,7 @@ div .av_one_half {
 }
 
 .inner-container {
-  padding-top: 10px
+  /* padding-top: 10px */
 }
 
 [data-av_icon]::before {
@@ -23201,7 +23201,8 @@ div .av_one_half {
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
   content: attr(data-av_icon);
-  speak: none
+  speak: none;
+  display: none;
 }
 
 .av-special-heading-tag {
@@ -23556,7 +23557,7 @@ h1 {
 @media only screen and (min-width:1150px) and (max-width:1448px) {
   .areaLegend {
     position: absolute;
-    top: 300px;
+    top: 278px;
     left: 220px;
     z-index: 1000
   }

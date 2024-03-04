@@ -4155,7 +4155,7 @@ html.responsive,
 }
 
 body {
-  font: 13px/1.65em "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /* font: 13px/1.65em "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; */
   color: #444;
   -webkit-text-size-adjust: 100%
 }
@@ -22161,7 +22161,8 @@ div .av_one_half {
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
   content: attr(data-av_icon);
-  speak: none
+  speak: none;
+  display: none;
 }
 
 .av-special-heading-tag {
@@ -22485,8 +22486,8 @@ h1 {
 
 .areaLegend {
   position: absolute;
-  top: 300px;
-  left: 350px;
+  top: 260px;
+  left: 300px;
   z-index: 1000
 }
 
@@ -22506,7 +22507,7 @@ h1 {
 
 .header_color .main_menu ul:first-child>li a:hover {
   border-bottom: 2px solid #fca961;
-  bottom-border: -2px
+  /* bottom-border: -2px */
 }
 
 #top .header_color .main_menu .menu ul li>a:hover {
@@ -22516,7 +22517,7 @@ h1 {
 @media only screen and (min-width:1150px) and (max-width:1448px) {
   .areaLegend {
     position: absolute;
-    top: 300px;
+    top: 280px;
     left: 220px;
     z-index: 1000
   }
