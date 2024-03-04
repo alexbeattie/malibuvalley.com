@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'Gastromond';
+    src: url('Gastromond-Regular.eot');
+    src: url('Gastromond-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Gastromond-Regular.woff2') format('woff2'),
+        url('Gastromond-Regular.woff') format('woff'),
+        url('Gastromond-Regular.ttf') format('truetype'),
+        url('Gastromond-Regular.svg#Gastromond-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Latienne Pro';
+    src: url('LatiennePro-Regular.eot');
+    src: url('LatiennePro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('LatiennePro-Regular.woff2') format('woff2'),
+        url('LatiennePro-Regular.woff') format('woff'),
+        url('LatiennePro-Regular.ttf') format('truetype'),
+        url('LatiennePro-Regular.svg#LatiennePro-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Beloved Sans';
+    src: url('fonts/BelovedSans-Bold.eot');
+    src: url('fonts/BelovedSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BelovedSans-Bold.woff2') format('woff2'),
+        url('fonts/BelovedSans-Bold.woff') format('woff'),
+        url('fonts/BelovedSans-Bold.ttf') format('truetype'),
+        url('fonts/BelovedSans-Bold.svg#BelovedSans-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Beloved Sans';
+    src: url('fonts/BelovedSans.eot');
+    src: url('fonts/BelovedSans.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BelovedSans.woff2') format('woff2'),
+        url('fonts/BelovedSans.woff') format('woff'),
+        url('fonts/BelovedSans.ttf') format('truetype'),
+        url('fonts/BelovedSans.svg#BelovedSans') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Latienne Pro';
+    src: url('LatiennePro-Bold.eot');
+    src: url('LatiennePro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('LatiennePro-Bold.woff2') format('woff2'),
+        url('LatiennePro-Bold.woff') format('woff'),
+        url('LatiennePro-Bold.ttf') format('truetype'),
+        url('LatiennePro-Bold.svg#LatiennePro-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+

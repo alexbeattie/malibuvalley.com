@@ -1,0 +1,20 @@
+
+
+
+.editor-block-list__block,
+.editor-block-list__block p {background-color:#ffffff; color:#666666;}
+.editor-block-list__block h1,
+.editor-block-list__block h2,
+.editor-block-list__block h3,
+.editor-block-list__block h4,
+.editor-block-list__block h5,
+.editor-block-list__block h6 {color:#222222;}
+.editor-post-title__block textarea {color:#666666; background-color:#eeeeee;}
+.editor-block-list__block a,
+.editor-block-list__block strong,
+.editor-block-list__block b,
+.editor-block-list__block b a,
+.editor-block-list__block strong a {color:#333333;}
+.editor-block-list__block .wp-block-heading,
+.editor-post-title__block textarea {font-family:'open sans', 'HelveticaNeue', 'Helvetica Neue', 'Helvetica-Neue', Helvetica, Arial, sans-serif;}
+.editor-block-list__block {font-family:'quattrocento', 'HelveticaNeue', 'Helvetica Neue', 'Helvetica-Neue', Helvetica, Arial, sans-serif;}
