@@ -1,1 +1,55 @@
-{"id":57,"date":"2021-01-27T07:48:40","date_gmt":"2021-01-27T07:48:40","guid":{"rendered":"http:\/\/malibuvalleyrealty.com\/?page_id=57"},"modified":"2021-04-13T03:26:32","modified_gmt":"2021-04-13T03:26:32","slug":"contact","status":"publish","type":"page","link":"https:\/\/malibuvalley.com\/contact\/","title":{"rendered":"Contact"},"content":{"rendered":"<div  style='padding-bottom:10px; ' class='av-special-heading av-special-heading-h3  blockquote modern-quote modern-centered  avia-builder-el-0  el_before_av_section  avia-builder-el-no-sibling  '><h3 class='av-special-heading-tag '  itemprop=\"headline\"  >Contact Malibu Estates<\/h3><div class='special-heading-border'><div class='special-heading-inner-border' ><\/div><\/div><\/div>\n<\/div><\/div><\/div><!-- close content main div --><\/div><\/div><div id='av_section_1'  class='avia-section main_color avia-section-default avia-no-border-styling  avia-bg-style-scroll  avia-builder-el-1  el_after_av_heading  avia-builder-el-last   container_wrap fullsize' style=' '  ><div class='container' ><div class='template-page content  av-content-full alpha units'><div class='post-entry post-entry-type-page post-entry-57'><div class='entry-content-wrapper clearfix'>\n<div class=\"flex_column av_one_fifth  flex_column_div av-zero-column-padding first  avia-builder-el-2  el_before_av_three_fifth  avia-builder-el-first  \" style='border-radius:0px; '><\/div><div class=\"flex_column av_three_fifth  flex_column_div av-zero-column-padding   avia-builder-el-3  el_after_av_one_fifth  el_before_av_one_fifth  \" style='border-radius:0px; '><\/div><div class=\"flex_column av_one_fifth  flex_column_div av-zero-column-padding   avia-builder-el-5  el_after_av_three_fifth  avia-builder-el-last  \" style='border-radius:0px; '><\/div>\n","protected":false},"excerpt":{"rendered":"","protected":false},"author":1,"featured_media":0,"parent":0,"menu_order":0,"comment_status":"closed","ping_status":"closed","template":"","meta":[],"_links":{"self":[{"href":"https:\/\/malibuvalley.com\/wp-json\/wp\/v2\/pages\/57"}],"collection":[{"href":"https:\/\/malibuvalley.com\/wp-json\/wp\/v2\/pages"}],"about":[{"href":"https:\/\/malibuvalley.com\/wp-json\/wp\/v2\/types\/page"}],"author":[{"embeddable":true,"href":"https:\/\/malibuvalley.com\/wp-json\/wp\/v2\/users\/1"}],"replies":[{"embeddable":true,"href":"https:\/\/malibuvalley.com\/wp-json\/wp\/v2\/comments?post=57"}],"version-history":[{"count":0,"href":"https:\/\/malibuvalley.com\/wp-json\/wp\/v2\/pages\/57\/revisions"}],"wp:attachment":[{"href":"https:\/\/malibuvalley.com\/wp-json\/wp\/v2\/media?parent=57"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}
+{
+  "id": 57,
+  "date": "2021-01-27T07:48:40",
+  "date_gmt": "2021-01-27T07:48:40",
+  "guid": { "rendered": "http://malibuvalleyrealty.com/?page_id=57" },
+  "modified": "2021-04-13T03:26:32",
+  "modified_gmt": "2021-04-13T03:26:32",
+  "slug": "contact",
+  "status": "publish",
+  "type": "page",
+  "link": "https://hourmagic.com/contact/",
+  "title": { "rendered": "Contact" },
+  "content": {
+    "rendered": "<div  style='padding-bottom:10px; ' class='av-special-heading av-special-heading-h3  blockquote modern-quote modern-centered  avia-builder-el-0  el_before_av_section  avia-builder-el-no-sibling  '><h3 class='av-special-heading-tag '  itemprop=\"headline\"  >Contact Malibu Estates</h3><div class='special-heading-border'><div class='special-heading-inner-border' ></div></div></div>\n</div></div></div><!-- close content main div --></div></div><div id='av_section_1'  class='avia-section main_color avia-section-default avia-no-border-styling  avia-bg-style-scroll  avia-builder-el-1  el_after_av_heading  avia-builder-el-last   container_wrap fullsize' style=' '  ><div class='container' ><div class='template-page content  av-content-full alpha units'><div class='post-entry post-entry-type-page post-entry-57'><div class='entry-content-wrapper clearfix'>\n<div class=\"flex_column av_one_fifth  flex_column_div av-zero-column-padding first  avia-builder-el-2  el_before_av_three_fifth  avia-builder-el-first  \" style='border-radius:0px; '></div><div class=\"flex_column av_three_fifth  flex_column_div av-zero-column-padding   avia-builder-el-3  el_after_av_one_fifth  el_before_av_one_fifth  \" style='border-radius:0px; '></div><div class=\"flex_column av_one_fifth  flex_column_div av-zero-column-padding   avia-builder-el-5  el_after_av_three_fifth  avia-builder-el-last  \" style='border-radius:0px; '></div>\n",
+    "protected": false
+  },
+  "excerpt": { "rendered": "", "protected": false },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [{ "href": "https://hourmagic.com/wp-json/wp/v2/pages/57" }],
+    "collection": [{ "href": "https://hourmagic.com/wp-json/wp/v2/pages" }],
+    "about": [{ "href": "https://hourmagic.com/wp-json/wp/v2/types/page" }],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://hourmagic.com/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://hourmagic.com/wp-json/wp/v2/comments?post=57"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://hourmagic.com/wp-json/wp/v2/pages/57/revisions"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://hourmagic.com/wp-json/wp/v2/media?parent=57" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}
